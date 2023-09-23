@@ -4,7 +4,7 @@ Learn basic coding with Clojure by building classic arcade games
 # CodeFete
 Learn basic coding by building classic arcade games like Breakout, Space Invaders and Asteroids on your computer with real code
 
-https://youtu.be/o9E5JLXI80s
+https://youtu.be/0ZRFtZ1JFx8
 
 https://clojure.org/guides/getting_started
 
